@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Matt Emery",
+    "first": "Matt",
+    "interview": "https://medium.com/@smallercomics/matt-emery-aa7d1a4fc2a8",
+    "link": {
+      "name": "guzumo.com",
+      "link": "http://www.guzumo.com/"
+    },
+    "img": "matt.emery.jpg"
+  },
+  {
+    "name": "Tom Eccles",
+    "first": "Tom",
+    "link": {
+      "name": "tapastic.com/iota",
+      "link": "http://tapastic.com/series/iota"
+    },
+    "img": "tom.eccles.jpg"
+  },
+  {
+    "name": "Ashley Ronning",
+    "first": "Ashley",
+    "interview": "https://medium.com/@smallercomics/ashley-ronning-795d99eb9742",
+    "link": {
+      "name": "ashleyronning.com",
+      "link": "http://ashleyronning.com/"
+    },
+    "img": "ashley.ronning.jpg"
+  },
+  {
+    "name": "Joshua Santospirito",
+    "first": "Josh",
+    "interview": "https://medium.com/@smallercomics/joshua-santospirito-56276ff5ff40",
+    "link": {
+      "name": "joshuasantospiritoart.com",
+      "link": "http://joshuasantospiritoart.com/"
+    },
+    "img": "joshua.santospirito.jpg"
+  },
+  {
+    "name": "Kathy Sarpi",
+    "first": "Kathy",
+    "interview": "https://medium.com/@smallercomics/kathy-sarpi-c7af3215068d",
+    "link": {
+      "name": "kathy-audrey.tumblr.com",
+      "link": "http://kathy-audrey.tumblr.com/"
+    },
+    "img": "kathy.audrey.jpg"
+  },
+  {
+    "name": "Freda Chiu",
+    "first": "Freda",
+    "interview": "https://medium.com/@smallercomics/freda-chiu-392a0aec75ad",
+    "link": {
+      "name": "fredachiu.com",
+      "link": "http://fredachiu.com/"
+    },
+    "img": "freda.chiu.jpg"
+  },
+  {
+    "name": "Catriona Drummond",
+    "first": "Catriona",
+    "interview": "https://medium.com/@goodsniff/catriona-drummond-ad6635135876",
+    "link": {
+      "name": "goodsniff.tumblr.com",
+      "link": "http://goodsniff.tumblr.com/"
+    },
+    "img": "catriona.drummond.jpg"
+  },
+  {
+    "name": "Jo Waite",
+    "first": "Jo",
+    "interview": "https://medium.com/@smallercomics/jo-waite-74664d68ccb5",
+    "link": {
+      "name": "youmaycallmefrank.tumblr.com",
+      "link": "http://youmaycallmefrank.tumblr.com"
+    },
+    "img": "jo-waite.jpg"
+  },
+  {
+    "name": "Aaron Billings",
+    "first": "Aaron",
+    "interview": "https://medium.com/@smallercomics/aaron-billings-998dfbe84ea7",
+    "link": {
+      "name": "instagram.com/dillings",
+      "link": "https://instagram.com/dillings/"
+    },
+    "img": "aaron.billings.jpg"
+  },
+  {
+    "name": "David Blumenstein",
+    "first": "David",
+    "link": {
+      "name": "nakedfella.com",
+      "link": "http://www.nakedfella.com/"
+    },
+    "img": "david.blumenstein.jpg"
+  },
+  {
+    "name": "Gemma Flack",
+    "first": "Gemma",
+    "interview": "https://medium.com/@smallercomics/gemma-flack-369741253036",
+    "link": {
+      "name": "gemmaflack.com",
+      "link": "http://www.gemmaflack.com/"
+    },
+    "img": "gemma.flack.jpg"
+  },
+  {
+    "name": "Andrew Fulton",
+    "first": "Andrew",
+    "interview": "https://medium.com/@smallercomics/andrew-fulton-a902c8cbebbd",
+    "link": {
+      "name": "mumblier.com",
+      "link": "http://mumblier.com/"
+    },
+    "img": "andrew.fulton.jpg"
+  }
+]

@@ -1,0 +1,78 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        
+        <title>Minicomic of the Month Club 2015</title>
+        <meta name="description" content="An annual subscription to fine minicomics from Australian and New Zealand cartoonists and storytellers. Twelve comics from twelve artists in 2015">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+        <meta property="og:title"
+              content="Minicomic of the Month Club 2015" />
+        <meta property="og:type"
+              content="website"/>
+        <meta property="og:url"
+              content="http://minicomic.club/2015/" />
+        <meta property="og:description"
+              content="An annual subscription to fine minicomics from Australian and New Zealand cartoonists and storytellers. Twelve comics from twelve artists in 2014" />
+        <meta property="og:image"
+              content="http://minicomic.club/2015/img/{{ asset 'top' }}"/>
+
+         <meta name="twitter:card"
+               content="photo" />
+        <meta name="twitter:site"
+              content = "@smallercomics" />
+        <meta name="twitter:creator"
+              content = "@smallercomics" />
+        <meta name="twitter:title"
+              content = "Minicomic of the Month Club 2015" />
+        <meta name="twitter:image"
+              content = "http://minicomic.club/2015/img/{{ asset 'top.jpg' }}" />
+
+
+        <link rel="canonical"
+              href="http://minicomic.club/2015" />
+
+        {{> styles }}
+        {{> typekit }}
+    </head>
+    <body>
+        {{> ga }}
+        {{> fb }}
+        {{> latest }}
+        {{> header }}
+        <article>
+
+            <p><strong>The Minicomic of the Month Club is</strong> an annual subscription to fine minicomics from Australian and New Zealand cartoonists and storytellers.<br/>
+            Sign up this month and get twelve comics from twelve artists in twelve months. Which twelve? <strong>These twelve:</strong></p>
+            <div id="artist-grid">
+                  {{#each artists}}
+                        {{> artist }}
+                  {{/each}}
+            </div>
+            <p>Subscriptions are <strong>$32</strong> if you are in Australia or New Zealand, <strong>$48</strong> anywhere else in the world.</p>
+            <div id="subscribe">
+                  <p>Subscriptions have <strong>closed</strong> for this season, but if you give us an email address we'll let you know when the next one opens:</p>
+                  {{> mailchimp }}
+            </div>
+            <div class="callout">
+                  <p>Do you know someone else who would be into this? We'd love it if you told them about it, or shared us around on <a class="fb-link" href="http://facebook.com/smallercomics">Facebook</a> or <a href="https://twitter.com/intent/tweet?url=http%3A//smallercomics.com/minicomics-of-the-month/2015&via=smallercomics&text=Minicomics!">Twitter</a></p>
+            </div>
+            </article>
+            <article>
+                  <p><strong>Here's what you could miss</strong> - this is a bit of what you would have got in the mail if you had subscribed last year. Pretty nice, right?</p>
+                  <div id="last-grid">
+                        {{#each previously}}
+                              {{> previously }}
+                        {{/each}}
+                  </div>
+            </article>
+        <div class="callout">
+        <p>Any questions? Hit us up on <a href="https://twitter.com/smallercomics" title="Smallercomics on twitter">twitter</a></p>
+      </div>
+	
+    {{>footer}}
+</body>
+</html>

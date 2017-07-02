@@ -1,0 +1,24 @@
+.latest {
+    background-color: #24292e;
+    
+    font-size:larger;
+    .inner{
+        max-width:600px;
+        margin: 0 auto;
+
+        p{
+            padding:1em 0.5em;
+            color:#F0F0F0;
+            margin:0;
+            a{
+                color:#FFFFFF;
+            }
+            img{
+                float: left;
+                width: 69px;
+                height: 69px;
+                margin-left: -99px;
+            }
+        }
+    }
+}
